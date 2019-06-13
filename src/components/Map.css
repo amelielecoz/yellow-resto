@@ -1,0 +1,17 @@
+.map {
+  display: flex;
+  margin-top: 56px;
+  position : fixed;
+}
+
+.marker-btn {
+  background : none;
+  border: none;
+  cursor : pointer;
+  color : white;
+}
+
+.marker-btn img{
+  height: 50px;
+  width: 50px;
+}
