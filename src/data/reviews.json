@@ -1,0 +1,32 @@
+{
+    "reviews": [
+        {
+          "ID": 1,
+          "name": "La Brocherie",
+          "longitude": 5.4523033,
+          "latitude": 43.5259687
+        },
+        {
+          "ID": 2,
+          "name": "Croquemitoufle",
+          "longitude": 5.4487842,
+          "latitude": 43.5262575
+        },
+        {
+          "ID": 3,
+          "name": "Epicerie locale",
+          "longitude": 5.4541111,
+          "latitude": 43.5266387
+        },
+        {
+          "ID": 4,
+          "name": "Licandro",
+          "longitude": 5.4459626,
+          "latitude": 43.527893
+        },
+        {
+          "ID": 5,
+          "name": "Le patio",
+          "longitude": 5.4456192,
+          "latitude": 43.5272416
+        },
